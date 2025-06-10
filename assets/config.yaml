@@ -1,0 +1,9 @@
+webrtc:
+  key: fa885ee2-6396-44e2-aea8-e81b0c14fe6b  #Your SkyWay API key
+  config: #未使用
+    iceServers: #未使用
+      - url: stun:stun.skyway.io:3478
+      - url: turn:homeo@turn.bistri.com:80
+        credential: homeo
+app: #未使用
+dice: #未使用
