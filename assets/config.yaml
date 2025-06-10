@@ -1,5 +1,8 @@
+backend:
+  mode: skyway2023 #'skyway2023' or 'skyway'
+  url: https://udonarium-backend.yutarou02.workers.dev
 webrtc:
-  key: fa885ee2-6396-44e2-aea8-e81b0c14fe6b  #Your SkyWay API key
+  key: aaaaaaaa-bbbb-ccccc-dddd-eeeeeeeeeeee  #Your SkyWay API key
   config: #未使用
     iceServers: #未使用
       - url: stun:stun.skyway.io:3478
